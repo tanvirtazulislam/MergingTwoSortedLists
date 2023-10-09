@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1696788289 source:c:\users\tanvir tazul islam\onedrive\work\lab instructor (nsu)\cse225\cse225l - summer 2023\code\latest tasks\lab06\main.cpp
+	<iostream>
+	"unsortedtype.cpp"
+
+1696781009 source:c:\users\tanvir tazul islam\onedrive\work\lab instructor (nsu)\cse225\cse225l - summer 2023\code\latest tasks\lab06\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+
+1696781009 c:\users\tanvir tazul islam\onedrive\work\lab instructor (nsu)\cse225\cse225l - summer 2023\code\latest tasks\lab06\unsortedtype.h
+
+1696781009 c:\users\tanvir tazul islam\onedrive\work\lab instructor (nsu)\cse225\cse225l - summer 2023\code\latest tasks\lab06\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+
