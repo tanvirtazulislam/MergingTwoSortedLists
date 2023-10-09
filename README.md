@@ -7,9 +7,12 @@ sequences is O(N). You can safely assume that no integer will be repeated. Input
 integer n specifies the number of elements in the second sequence. Next n values are the elements in the second sequence. The output is the combined sequence.
 
 Sample Inputs: 
+
 10 1 5 6 10 14 20 25 31 38 40
 
 12 2 4 7 9 16 19 23 24 32 35 36 42
 
+
 Expected Output:
+
 1 2 4 5 6 7 9 10 14 16 19 20 23 24 25 31 32 35 36 38 40 42
